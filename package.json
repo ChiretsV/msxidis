@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "type": "commonjs",
+    "dependencies": {
+        "@types/redis": "^2.8.16",
+        "amqp-ts": "^1.8.0",
+        "cassandra-driver": "^4.7.2",
+        "handy-redis": "^1.8.0",
+        "nodeplotlib": "0.6.5",
+        "prettier": "1.19.1",
+        "redis": "^4.7.0",
+        "redis-promisify": "^0.1.2"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.2"
+    }
+}
